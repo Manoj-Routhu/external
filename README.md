@@ -2,7 +2,7 @@
 - run: pip install -r requirements.txt
 - In terminal go to project and run " uvicorn main:app --host 127.0.0.1 --port 8080
 "
--- {
+  - {
   "papers": [
     {
       "title": "Accelerating drug discovery with Artificial: a whole-lab orchestration\n  and scheduling system for self-driving labs",
